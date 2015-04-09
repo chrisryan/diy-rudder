@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PropertyList>
+ <generic>
+  <input>
+   <line_separator>newline</line_separator>
+   <var_separator>,</var_separator>
+   <chunk>
+    <name>rudder</name>
+    <node>/controls/flight/rudder</node>
+	<type>double</type>
+	<factor>0.007874016</factor>
+   </chunk>
+  </input>
+ </generic>
+</PropertyList>
